@@ -60,7 +60,8 @@ We used We use linear regression models to predict future temperature trends. We
 ---------------
 To install the necessary packages, run the following command:
 
-```pip install -r requirements.txt```
+```pip install -r requirements.txt
+``` 
 
 
 ## Results
